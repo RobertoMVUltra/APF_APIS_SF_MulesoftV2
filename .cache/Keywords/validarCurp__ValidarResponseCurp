@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "E078C364968693D480CEC3F88154F851",
+  "keywordClasses": [
+    {
+      "name": "validarCurp.ValidarResponseCurp",
+      "keywordMethods": [
+        {
+          "name": "ValidarCurpIngresado",
+          "parameters": [
+            {
+              "name": "jsonResponseGetCurp",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Object",
+                "unresolvedClassName": "java.lang.Object",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
