@@ -9,7 +9,7 @@
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\JRobertoMV\Katalon Studio\Poyectos Banorte\APF_APIS_SF_MulesoftV2\APF_APIS_SF_Mulesoft.prj</projectFileLocation>
+   <projectFileLocation>C:\gitBanorte\APF_APIS_SF_MulesoftV2\APF_APIS_SF_Mulesoft.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

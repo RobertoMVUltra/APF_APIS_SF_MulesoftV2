@@ -136,7 +136,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'QA'</initValue>
+      <initValue>'PRE'</initValue>
       <name>AMBIENTE</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
